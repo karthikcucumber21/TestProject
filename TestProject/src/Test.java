@@ -1,4 +1,7 @@
 
 public class Test {
-hgvcc
+
+	public void m1{
+		
+	}
 }
